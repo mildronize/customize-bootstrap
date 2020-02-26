@@ -10,7 +10,9 @@
   },
   "author": "Thada",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
   "devDependencies": {
     "live-server": "^1.2.1",
     "node-sass-chokidar": "^1.4.0",
